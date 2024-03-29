@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../MNIST-classifier-NN"
+		},
+		{
+			"path": "../../../../older_semesters/cs1200/F2023/hw/hw08"
+		}
+	],
+	"settings": {}
+}
